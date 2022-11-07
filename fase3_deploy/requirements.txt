@@ -1,0 +1,9 @@
+streamlit==1.13.0
+pandas==1.4.4
+numpy==1.21.5
+joblib==1.1.0
+category-encoders==2.5.1.post0
+sklearn==1.0.2
+catboost==1.1
+shap==0.41.0
+streamlit-shap==1.0.2

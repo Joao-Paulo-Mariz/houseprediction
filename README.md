@@ -1,7 +1,6 @@
 # Previsão de preços de compra ou venda de imóveis da cidade de Belo Horizonte
     
 Esse projeto visa demonstrar meu conhecimento sobre as etapas de um projeto de data science com a utilização de importantes frameworks para essa tarefa.
-![imovel](https://cdn.pixabay.com/photo/2021/10/07/15/23/real-estate-6688945_960_720.jpg)
 ## Contexto
     
 O setor imobiliário é de extrema importância para a economia nacional, tendo em vista que gera riquezas não apenas para sua área mas também em outros setores como construção civil e finanças. Isso tudo pode ser evidenciado com seus números. Segundo a associação de dirigentes de empresas do mercado imobiliário, o setor gerou quase R$ 100 bilhões no ano de 2021 e a tendência é de crescimento para os próximos anos em um mundo sem pandemia.

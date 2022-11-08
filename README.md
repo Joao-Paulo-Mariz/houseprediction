@@ -16,7 +16,7 @@ A entrega do projeto será por meio de um WEB APP hibrido, tanto para compras co
     
 ## Fluxo prático do projeto
     
-## Fase 1 - Obtenção dos dados
+## [Fase 1 - Obtenção dos dados](https://github.com/Joao-Paulo-Mariz/houseprediction/tree/master/fase1-web_scraping)
     
 A primeira fase foi caracterizada pelo processo de obtenção dos dados por meio de web scraping em um site de imobiliária, bem como o tratamento desses dados e seu armazenamento em um banco de dados MongoDB dos dados já limpos para análise posterior.
 

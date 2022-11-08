@@ -48,7 +48,6 @@ if st.sidebar.button('Previsão'):
     x = pd.DataFrame(x, columns=['area_m2', 'quartos', 'suites', 'vagas', 'banheiro', 'bairro'])
     st.subheader('interpretação de resultado - Influência no preço')
 
-    #shap.initjs()
     explainer = shap.TreeExplainer(model) 
     shap_values = explainer.shap_values(x)
 

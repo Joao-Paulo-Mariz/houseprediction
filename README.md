@@ -24,4 +24,4 @@ Essa fase do projeto é constituída por análise exploratória de dados, pré-p
 
 ## [Fase 3 - Deploy do modelo preditivo](https://joao-paulo-mariz-houseprediction-fase3-deployapp-esnydl.streamlit.app/)
         
-A terceira fase compreendeu a construção de um APP em Streamlit para o deploy do modelo preditivo. Com o APP o usuário poderá colocar informações de imóveis e terá como retorno o valor previsto, valor de compra ou venda e gráficos que permitirá o usuário entender qual dado foi mais importante para o valor do imóvel e assim poder explicar a terceiros.
+A terceira fase compreendeu a construção de um APP em Streamlit para o deploy do modelo preditivo. Com o APP o usuário poderá colocar informações de imóveis e terá como retorno o valor previsto, valor de compra ou venda e gráficos que permitirá ao usuário entender qual dado foi mais importante para o valor do imóvel e assim poder explicar a terceiros.

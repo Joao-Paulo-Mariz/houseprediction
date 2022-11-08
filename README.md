@@ -20,7 +20,7 @@ A entrega do projeto será por meio de um WEB APP hibrido, tanto para compras co
     
 A primeira fase foi caracterizada pelo processo de obtenção dos dados por meio de web scraping em um site de imobiliária, bem como o tratamento desses dados e seu armazenamento em um banco de dados MongoDB dos dados já limpos para análise posterior.
 
-## Fase 2 - Análise exploratória de dados, criação do modelo e sua avaliação
+## [Fase 2 - Análise exploratória de dados, criação do modelo e sua avaliação](https://nbviewer.org/github/Joao-Paulo-Mariz/houseprediction/blob/master/fase2_EDA_ML.ipynb)
     
 Essa fase do projeto é constituída por análise exploratória de dados, pré-processamento, construção do modelo preditivo e sua avaliação. Na primeira etapa será realizada uma análise estatística e visual das observações obtidas na fase 1, web scraping de dados imobiliários. A partir dessa primeira análise terá início o pré-processamento, ou seja, os dados serão preparados de acordo com suas características observadas anteriormente para criação do modelo de machine learning. Essa terceira etapa começará com a comparação de diversos algoritimos de machine learning, depois o melhor modelo passará por um turning de hiperparâmetros visando refinar seu resultado e, por fim, será treinado, avaliado e salvo para a próxima etapa, deploy.
 

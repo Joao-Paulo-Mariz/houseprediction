@@ -24,6 +24,6 @@ A primeira fase foi caracterizada pelo processo de obtenção dos dados por meio
     
 Essa fase do projeto é constituída por análise exploratória de dados, pré-processamento, construção do modelo preditivo e sua avaliação. Na primeira etapa será realizada uma análise estatística e visual das observações obtidas na fase 1, web scraping de dados imobiliários. A partir dessa primeira análise terá início o pré-processamento, ou seja, os dados serão preparados de acordo com suas características observadas anteriormente para criação do modelo de machine learning. Essa terceira etapa começará com a comparação de diversos algoritimos de machine learning, depois o melhor modelo passará por um turning de hiperparâmetros visando refinar seu resultado e, por fim, será treinado, avaliado e salvo para a próxima etapa, deploy.
 
-## Fase 3 - Deploy do modelo preditivo
+## [Fase 3 - Deploy do modelo preditivo](https://joao-paulo-mariz-houseprediction-fase3-deployapp-esnydl.streamlit.app/)
         
 A terceira fase compreendeu a construção de um APP em Streamlit para o deploy do modelo preditivo. Com o APP o usuário poderá colocar informações de imóveis e terá como retorno o valor previsto, valor de compra ou venda e gráficos que permitirá o usuário entender qual dado foi mais importante para o valor do imóvel e assim poder explicar a terceiros.

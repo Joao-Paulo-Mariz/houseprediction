@@ -12,8 +12,7 @@ Uma empresa hipotética do setor imobiliário trabalha com compra e venda de im�
 ## Entrega do projeto
      
 A entrega do projeto será por meio de um WEB APP hibrido, tanto para compras com vendas, com a previsão do preço e do valor de compra ou venda.
-    
-## Fluxo prático do projeto
+
     
 ## [Fase 1 - Obtenção dos dados](https://github.com/Joao-Paulo-Mariz/houseprediction/tree/master/fase1-web_scraping)
     

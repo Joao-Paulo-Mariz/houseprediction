@@ -18,9 +18,9 @@ tendo como ponto de partida informações de um imóvel. Preencha o campo
 ao lado e veja abaixo o resultado e avaliação do mesmo a partir de gráficos.
 """)
 
-neighborhoods = joblib.load('neighborhoods.sav')
-pipeline = joblib.load('pipeline.sav')
-model = joblib.load('model.sav')
+neighborhoods = joblib.load('fase3_deploy/neighborhoods.sav')
+pipeline = joblib.load('fase3_deploy/pipeline.sav')
+model = joblib.load('fase3_deploy/model.sav')
 
 st.sidebar.subheader('Dados do imóvel em m2')
 area_m2 = st.sidebar.number_input('Àrea do imóvel', min_value=0, value=100, step=10)
